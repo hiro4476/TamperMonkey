@@ -13,5 +13,9 @@
 (function() {
     'use strict';
     console.log("ASD2");
+    console.log("ASD2");
+    console.log("ASD2");
+    console.log("ASD2");
+    console.log("ASD2");
     // Your code here...
 })();
