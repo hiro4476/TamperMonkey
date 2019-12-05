@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       hiro
 // @match        *
-// @updateURL    https://github.com/hiro4476/TamperMonkey/raw/master/AutoUpdateTest_GitHub.js
+// @updateURL    https://raw.githubusercontent.com/hiro4476/TamperMonkey/master/AutoUpdateTest_GitHub.js
 // @grant        none
 // ==/UserScript==
 
