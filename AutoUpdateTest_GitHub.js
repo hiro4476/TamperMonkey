@@ -5,8 +5,8 @@
 // @description  try to take over the world!
 // @author       hiro
 // @match        *
-// @updateURL    https://raw.githubusercontent.com/hiro4476/TamperMonkey/master/AutoUpdateTest_GitHub.js?token=AAX3AXXNW3FCICGGVOTD3EK55DEQS
-// @downloadURL  https://raw.githubusercontent.com/hiro4476/TamperMonkey/master/AutoUpdateTest_GitHub.js?token=AAX3AXXNW3FCICGGVOTD3EK55DEQS
+// @updateURL    https://github.com/hiro4476/TamperMonkey/raw/master/AutoUpdateTest_GitHub.js
+// @downloadURL  https://github.com/hiro4476/TamperMonkey/raw/master/AutoUpdateTest_GitHub.js
 // @grant        none
 // ==/UserScript==
 
