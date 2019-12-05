@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoUpdateTest_GitHub
 // @namespace    http://hiro.net/AutoUpdateTest_GitHub
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @author       hiro
 // @match        *
@@ -11,8 +11,8 @@
 
 (function() {
     'use strict';
-    console.log("ASD3");
-    console.log("ASD3");
+    console.log("ASD4");
+    console.log("ASD4");
     console.log("ASD3");
     console.log("ASD3");
     console.log("ASD3");
